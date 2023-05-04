@@ -1,3 +1,3 @@
 # cyberolympics
 
-## Solve the following challenges
+Solve the following challenges
